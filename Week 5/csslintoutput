@@ -1,0 +1,15 @@
+csslint: There are 3 problems in C:\Documents\WDD 331 - \alansgilliam23.github.io\wdd331\w05\main.css.
+
+main.css
+1: warning at line 116, col 3
+Heading (h3) has already been defined.
+    h1 {
+
+main.css
+2: warning at line 146, col 3
+Heading (h1) has already been defined.
+    h2 {
+
+main.css
+3: warning
+You have 2 h1s, 2 h2s defined in this stylesheet.

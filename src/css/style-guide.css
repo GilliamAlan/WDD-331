@@ -96,21 +96,21 @@ header {
       color: #ddaf94;
       padding: 10px; }
 
-.cd-other-links li a {
+.cd-other-links {
  background-color: #266150;
   padding: 10px;
   padding-top: 10px;
   border-color: #266150;
   border: 1px;
   border-radius: 1em; }
-  .cd-secondary-nav li {
+  .cd-other-links li {
     display: inline; }
-  .cd-secondary-nav li a {
+  .cd-other-links li a {
     color: #ffffff;
     padding: 10px; }
-    .cd-secondary-nav li a.selected {
+    .cd-other-links li a.selected {
       color: #ffffff; }
-    .no-touch .cd-secondary-nav li a:hover {
+    .no-touch .cd-other-links li a:hover {
       color: #ddaf94;
       padding: 10px; }
 
